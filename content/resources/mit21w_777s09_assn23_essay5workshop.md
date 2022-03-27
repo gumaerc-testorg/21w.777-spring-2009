@@ -6,10 +6,10 @@ file: /media/courses/21w-777-the-science-essay-spring-2009/a97fb89369340779a7911
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Essay 5 Workshop
+type: OCWFile
 uid: a97fb893-6934-0779-a791-1b59584d481e
 ---

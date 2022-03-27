@@ -6,10 +6,10 @@ file: /media/courses/21w-777-the-science-essay-spring-2009/951526734a52a579ab8b9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #8'
+type: OCWFile
 uid: 95152673-4a52-a579-ab8b-961d63be4549
 ---

@@ -6,10 +6,10 @@ file: /media/courses/21w-777-the-science-essay-spring-2009/4d4e774e4af23d56a3a81
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Final Assignments and Portfiolo
+type: OCWFile
 uid: 4d4e774e-4af2-3d56-a3a8-18b6ee0cd947
 ---

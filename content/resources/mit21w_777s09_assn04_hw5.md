@@ -5,10 +5,10 @@ file: /media/courses/21w-777-the-science-essay-spring-2009/d1e5f605ae53be282edec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework #5'
+type: OCWFile
 uid: d1e5f605-ae53-be28-2ede-ccde32377179
 ---

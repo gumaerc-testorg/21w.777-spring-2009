@@ -5,10 +5,10 @@ file: /media/courses/21w-777-the-science-essay-spring-2009/32e5cd64ce6e609c2b284
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Books for Book Review Assignment (Essay 4) '
+type: OCWFile
 uid: 32e5cd64-ce6e-609c-2b28-455e9d57489c
 ---
