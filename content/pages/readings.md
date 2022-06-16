@@ -1,14 +1,16 @@
 ---
 content_type: page
+description: This section presents a table of required reading assignments for each
+  class session, followed by a list of supplemental readings and materials.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 789f481a-dfda-faf5-a4b3-cccc1bf07789
 ---
 
 This page presents a table of required reading assignments for each class session, followed by a list of [supplemental readings and materials](#Supplemental_Readings_and_Materials).
 
-Books for essay 4 are listed on a separate document. ([PDF]({{< baseurl >}}/resources/mit21w_777s09_read01_booklistessay4))
+Books for essay 4 are listed on a separate document. ({{% resource_link 32e5cd64-ce6e-609c-2b28-455e9d57489c "PDF" %}})
 
 Readings are from the following text unless otherwise indicated:
 
@@ -190,7 +192,7 @@ Strategizing the longer research essay
 
 {{< tdclose >}}
 {{< tdopen >}}
-Book list for essay 4 ([PDF]({{< baseurl >}}/resources/mit21w_777s09_read01_booklistessay4))
+Book list for essay 4 ({{% resource_link 32e5cd64-ce6e-609c-2b28-455e9d57489c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
