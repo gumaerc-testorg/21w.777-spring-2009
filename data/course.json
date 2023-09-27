@@ -39,7 +39,9 @@
   },
   "course_title": "The Science Essay",
   "course_description": "The science essay uses science to think about the human condition; it uses humanistic thinking to reflect on the possibilities and limits of science and technology. In this class we read and practice writing science essays of varied lengths and purposes. We will read a wide variety of science essays, ranging across disciplines, both to learn more about this genre and to inspire your own writing. This semester's reading centers on \"The Dark Side,\" with essays ranging from Alan Lightman's \"Prisoner of the Wired World\" through Robin Marantz Henig's cautionary account of nano-technology (\"Our Silver-Coated Future\") to David Quammen's investigation of diseases that jump from animals to humans (\"Deadly Contact\").\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.777",
   "course_image_thumbnail": {
@@ -49,6 +51,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "649e5260-7c34-4a20-9811-ff980b3a0e00",
+  "site_uid": "30d4e434-708e-40ed-a0af-acd9050ba791",
+  "site_short_id": "21w.777-spring-2009",
   "title": "Course Metadata"
 }
