@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignments on reading and writing science essays.
-file: /courses/21w-777-the-science-essay-spring-2009/8e542088c95ad1e66f8882076f477899_MIT21W_777s09_assn01_hw1and2.pdf
+file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/8e542088c95ad1e66f8882076f477899_MIT21W_777s09_assn01_hw1and2.pdf
 file_size: 43236
 file_type: application/pdf
 learning_resource_types:
