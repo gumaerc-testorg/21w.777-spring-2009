@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write an essay on either the intersection of life and science,
   or the social impact of science  or technology.
-file: /courses/21w-777-the-science-essay-spring-2009/b11336f5bc499a15e922a9352bed075d_MIT21W_777s09_assn07_hw9.pdf
+file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/b11336f5bc499a15e922a9352bed075d_MIT21W_777s09_assn07_hw9.pdf
 file_size: 45131
 file_type: application/pdf
 learning_resource_types:
