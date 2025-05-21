@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment to revise a science essay.
-file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/74c2c8a95f91a3414615669e72dba745_MIT21W_777s09_assn14_hw15essay4.pdf
+file: /courses/21w-777-the-science-essay-spring-2009/74c2c8a95f91a3414615669e72dba745_MIT21W_777s09_assn14_hw15essay4.pdf
 file_size: 40574
 file_type: application/pdf
 learning_resource_types:

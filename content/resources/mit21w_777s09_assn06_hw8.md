@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment to read an essay on the challenges of medical science
   and to write a proposal for an assignment to write a science essay.
-file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/951526734a52a579ab8b961d63be4549_MIT21W_777s09_assn06_hw8.pdf
+file: /courses/21w-777-the-science-essay-spring-2009/951526734a52a579ab8b961d63be4549_MIT21W_777s09_assn06_hw8.pdf
 file_size: 40099
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment to write an essay on "home" science or technology.
-file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/d1e5f605ae53be282edeccde32377179_MIT21W_777s09_assn04_hw5.pdf
+file: /courses/21w-777-the-science-essay-spring-2009/d1e5f605ae53be282edeccde32377179_MIT21W_777s09_assn04_hw5.pdf
 file_size: 46790
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment to read four book reviews and prepare to discuss
   them in class.
-file: /ol-ocw-studio-app/courses/21w-777-the-science-essay-spring-2009/2119deb3d61c1fb2473540b6677bf612_MIT21W_777s09_assn10_hw11part2.pdf
+file: /courses/21w-777-the-science-essay-spring-2009/2119deb3d61c1fb2473540b6677bf612_MIT21W_777s09_assn10_hw11part2.pdf
 file_size: 47479
 file_type: application/pdf
 learning_resource_types:
