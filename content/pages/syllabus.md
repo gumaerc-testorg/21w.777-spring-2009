@@ -31,7 +31,7 @@ Groopman, Jerome, and Tim Folger. _The Best American Science and Nature Writing 
 
 ### Recommended Textbooks
 
-Hancock, Elise. _Ideas into Words: Mastering the Craft of Science Writing_. Baltimore, MD: The Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[[Preview](http://books.google.com/books?id=YGLcYi3QJ1IC&printsec=frontcover&source=gbs_v2_summary_r) a Version in Google Books.\]
+Hancock, Elise. _Ideas into Words: Mastering the Craft of Science Writing_. Baltimore, MD: The Johns Hopkins University Press, 2003. ISBN: 9780801873300. \[{{% resource_link "d522ce63-6b6b-4e7b-aec7-7fb34c75d627" "Preview" %}} a Version in Google Books.\]
 
 I also strongly urge you to purchase a good college dictionary, if you do not already own one. By that I mean, not a pocket dictionary! If English is not your first language, you will need at least **two** good dictionaries. If you are really interested in good usage, also consider purchasing a dictionary of usage.
 
@@ -137,7 +137,7 @@ Essay 1, class participation, oral presentations
 MIT Literature Statement on Plagiarism
 --------------------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://web.mit.edu/writing/) and the [MIT Web site on Plagiarism](http://web.mit.edu/writing/Special/plagiarism.html).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "17384563-0780-49dc-8779-e587c3b38eb1" "Writing and Communication Center" %}} and the {{% resource_link "6c669ccb-779f-41c9-8781-f314c909acb5" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
