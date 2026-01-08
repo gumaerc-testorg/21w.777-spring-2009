@@ -174,7 +174,7 @@ Patterson, Kevin. "The Patient Predator." In _The Best American Science Writing 
 Darwin's dark legacy
 {{< tdclose >}}
 {{< tdopen >}}
-Denby, David. "{{% resource_link "89ecebb9-be85-45d1-876f-70db0243ea5b" "In Darwin's Wake" %}}." _The New Yorker_, July 21, 1997.
+Denby, David. "[In Darwin's Wake](http://www.newyorker.com/archive/1997/07/21/1997_07_21_050_TNY_CARDS_000378449)." _The New Yorker_, July 21, 1997.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,11 +212,11 @@ Handling complexity
 {{< tdopen >}}
 
 
-Pollan, Michael. "{{% resource_link "10e6c40d-c45c-4441-a66d-95a9a48ccbc0" "Our Decrepit Food Factories" %}}." _The New York Times Magazine_, December 16, 2007.
+Pollan, Michael. "[Our Decrepit Food Factories](http://www.michaelpollan.com/article.php?id=91)." _The New York Times Magazine_, December 16, 2007.
 
-———. "{{% resource_link "9dc01c32-62a9-4d8a-8155-cde1098e8fbb" "Farmer in Chief" %}}." _The New York Times Magazine_, October 12, 2008.
+———. "[Farmer in Chief](http://www.michaelpollan.com/article.php?id=97)." _The New York Times Magazine_, October 12, 2008.
 
-Kolbert, Elizabeth. "{{% resource_link "9f9a1915-7fbf-463b-ade0-fca825292f18" "Watermark" %}}." _The New Yorker_, February 27, 2006.
+Kolbert, Elizabeth. "[Watermark](http://www.newyorker.com/archive/2006/02/27/060227fa_fact_kolbert)." _The New Yorker_, February 27, 2006.
 
 
 {{< tdclose >}}
@@ -231,37 +231,37 @@ Kolbert, Elizabeth. "{{% resource_link "9f9a1915-7fbf-463b-ade0-fca825292f18" "W
 {{< anchor "Supplemental_Readings_and_Materials" >}}{{< /anchor >}}Supplemental Readings and Materials
 ------------------------------------------------------------------------------------------------------
 
-Dawidoff, Nicholas. "{{% resource_link "98c1cc8b-5fa5-4e63-b4e0-994d9fc9a1ff" "Profile of Freeman Dyson" %}}." _The New York Times_, March 25, 2009.  
+Dawidoff, Nicholas. "[Profile of Freeman Dyson](http://www.nytimes.com/2009/03/29/magazine/29Dyson-t.html)." _The New York Times_, March 25, 2009.  
 (A profile and discussion about Freeman Dyson's contrarian position on global warming, among other issues.)
 
-Pollan, Michael. "{{% resource_link "14b02d06-2bcf-41ad-91d7-5680c38c8f0d" "More from Michael Pollan" %}}." _The New York Times Magazine_, January 28, 2007.  
+Pollan, Michael. "[More from Michael Pollan](http://www.michaelpollan.com/article.php?id=87)." _The New York Times Magazine_, January 28, 2007.  
 (An article that grew into Pollan's book _In Defense of Food_.)
 
-Angier, Natalie. "{{% resource_link "59f85651-934c-4aec-8e6a-0a938b801c09" "Seeing Red" %}}." _The New York Times_, February 6, 2007.  
+Angier, Natalie. "[Seeing Red](http://www.nytimes.com/2007/02/06/science/06angi.html?_r=1&scp=2&sq=%22Seeing+Red%22+Angier&st=nyt&oref=slogin)." _The New York Times_, February 6, 2007.  
 (A short piece on the science of everyday life.)
 
-Sacks, Oliver. "{{% resource_link "47a64c08-3abe-4413-b0b1-a6e8b84a4c47" "Oliver Sacks on Migraines" %}}." _The New York Times_, July 7, 2009.  
+Sacks, Oliver. "[Oliver Sacks on Migraines](http://migraine.blogs.nytimes.com/2008/02/13/patterns/?ex=1203656400&en=2a3636f49ab4d38b&ei=5070&emc=eta1)." _The New York Times_, July 7, 2009.  
 (A piece on the visual phenomena accompanying migraines.)
 
-Swidey, Neil. "{{% resource_link "964376a7-c0c3-4d4e-9bf0-7192ae5d7b67" "The End of Alone by Neil Swidey" %}}." _The Boston Globe_, February 8, 2009.  
+Swidey, Neil. "[The End of Alone by Neil Swidey](http://www.boston.com/bostonglobe/magazine/articles/2009/02/08/the_end_of_alone/)." _The Boston Globe_, February 8, 2009.  
 (An article that discusses many of the same points as Alan Lightman's essay but uses different arguments and evidence.)
 
-Dizikes, Peter. "{{% resource_link "762aa31f-8d19-4502-bdda-42c25bf0ea97" "Civic Science" %}}." _Boston Globe_, April 30, 2006.  
+Dizikes, Peter. "[Civic Science](http://www.boston.com/news/globe/ideas/articles/2006/04/30/civic_science/)." _Boston Globe_, April 30, 2006.  
 (Contains a good discussion about scientific literacy.)
 
-Moore, Solomon. "{{% resource_link "f0072b62-6807-4e8a-a2b8-c337fd4bbefc" "Story Idea: Forensic Science" %}}." _The New York Times_, February 18, 2009.  
+Moore, Solomon. "[Story Idea: Forensic Science](http://www.nytimes.com/2009/02/19/us/19forensics.html)." _The New York Times_, February 18, 2009.  
 (An article about the NAS study)
 
-Pollack, Andrew. "{{% resource_link "620ca3bb-d961-4aac-9a8d-75cad6f677bc" "Story Idea: Biotech crops" %}}." _The New York Times_, February 19, 2009.  
+Pollack, Andrew. "[Story Idea: Biotech crops](http://www.nytimes.com/2009/02/20/business/20crop.html)." _The New York Times_, February 19, 2009.  
 (A news item about the difficulties of performing research on GMO crops.)
 
-McGrath, Charles. "{{% resource_link "2db104b6-f60e-4e4d-a166-cf3a507cf040" "Story Idea: Our Relationship with Other Primates" %}}." _The New York Times_, February 21, 2009.  
+McGrath, Charles. "[Story Idea: Our Relationship with Other Primates](http://www.nytimes.com/2009/02/22/weekinreview/22mcgrath.html?_r=1&scp=1&sq=%22A%20Primate%20Family%20Picnic%22&st=cse)." _The New York Times_, February 21, 2009.  
 (An article that explores the ethical dimensions of, for example, keeping a chimp as a pet.)
 
-Kristof, Nicholas. D. "{{% resource_link "4c1f09c5-6d70-42f1-8811-9d81d187078a" "Story Idea: Diseases and Animals" %}}." _The New York Times_, March 11, 2009.  
+Kristof, Nicholas. D. "[Story Idea: Diseases and Animals](http://www.nytimes.com/2009/03/12/opinion/12kristof.html?em)." _The New York Times_, March 11, 2009.  
 (A very "dark side" article on hogs and MRSA.)
 
-{{% resource_link "2c039bb3-abce-494d-96b0-fd3a38ccc515" "The Canary Project" %}}  
+[The Canary Project](http://canary-project.org/)  
 The Canary Project produces visual media, events, and artwork that build public understanding of human-induced climate change and energize commitment to solutions.
 
 Gawande, Atul. "Desperate Measures." In _The Best American Science Writing 2004_. New York, NY: Harper Collins, 2004, pp. 8-28. ISBN: 9780060726409.  
